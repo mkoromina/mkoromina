@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mkoromina
 - 👀 I’m interested in Bioinformatics, Statistical Genetics, Functional Genomics, Epidemiology and Rare diseases.
-- 🌱 I’m currently learning and I'm highly involved in GWAS and NGS pipelines.
-- 💞️ I’m looking to collaborate on GWAS and NGS analysis projects.
+- 🌱 I’m currently involved in GWAS and NGS pipelines for a variety of psychiatric genetics projects.
+- 💞️ I’m looking to collaborate on GWAS and NGS projects involving large scale cohorts/consortia.
 - 📫 How to reach me: just a drop a message either here or in mkoromina@upnet.gr
 
 <!---
