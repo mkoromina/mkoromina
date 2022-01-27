@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mkoromina
-- 👀 I’m interested in Bioinformatics, Statistical Genetics, Functional Genomics, Epidemiology and Rare diseases.
-- 🌱 I’m currently working on GWAS and NGS pipelines for a variety of psychiatric genetics projects.
-- 💞️ I’m looking to collaborate on GWAS and NGS projects involving large scale cohorts/consortia.
-- 📫 How to reach me: just a drop a message either here or in mkoromina@upnet.gr
+- 👀 I’m interested in Statistical Genetics and Psychiatric Genomics.
+- 🌱 I’m currently working on fine-mapping for bipolar disorder risk loci.
+- 📫 How to reach me: just a drop me a message here.
 
 <!---
 mkoromina/mkoromina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
