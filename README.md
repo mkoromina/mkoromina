@@ -1,4 +1,5 @@
 Statistical Genetics, Psychiatric Genomics, Large-scale Analysis Pipelines.
+
 Currently working on fine-mapping for bipolar disorder risk loci.
 
 <!---
