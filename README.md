@@ -1,6 +1,6 @@
 Statistical Genetics, Psychiatric Genomics, Large-scale Analysis Pipelines.
 
-Currently working on fine-mapping for bipolar disorder risk loci.
+Currently working on fine-mapping for bipolar disorder and suicidality risk loci.
 
 <!---
 mkoromina/mkoromina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
