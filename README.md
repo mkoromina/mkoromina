@@ -1,4 +1,4 @@
-Statistical Genetics, Psychiatric Genomics, Large-scale Analysis Pipelines.
+Statistical Genetics, Psychiatric Genomics, Large-scale Analysis Pipelines 🧬.
 
 Currently working on fine-mapping for bipolar disorder and suicidality risk loci.
 
